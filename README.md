@@ -71,4 +71,4 @@ Users can explore the dashboard using filters for:
 This project demonstrates how interactive dashboards built using Power BI can transform raw sales data into actionable business insights for better decision-making.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Mobile Sales Dashboard-Power Bi.png)
+![Dashboard Preview](Mobile%20Sales%20Dashboard-Power%20Bi.png)
